@@ -1,0 +1,94 @@
+{
+    "restaurant_name": "La Bella Italia",
+    "vegetarian_options": true,
+    "gluten_free_options": true,
+    "delivery": true,
+    "delivery_time": 30,
+    "delivery_fee": 5.00,
+    "address": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "phone_number": "212-555-5555",
+    "website": "www.labellaitalia.com",
+    "hours": [
+      {
+        "day": "Monday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Tuesday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Wednesday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Thursday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Friday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Saturday",
+        "open": "11:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Sunday",
+        "open": "11:00",
+        "close": "22:00"
+      }
+    ],
+    "food_categories": [
+      {
+        "category_name": "Antipasti",
+        "dishes": [
+          "Bruschetta",
+          "Caprese Salad",
+          "Stuffed Mushrooms"
+        ]
+      },
+      {
+        "category_name": "Pasta",
+        "dishes": [
+          "Spaghetti Bolognese",
+          "Fettuccine Alfredo",
+          "Lasagna"
+        ]
+      },
+      {
+        "category_name": "Pizza",
+        "dishes": [
+          "Margherita Pizza",
+          "Pepperoni Pizza",
+          "Vegetarian Pizza"
+        ]
+      }
+    ],
+    "beverages": [
+      {
+        "name": "Coke",
+        "description": "Classic soda",
+        "price": 2.50
+      },
+      {
+        "name": "Iced Tea",
+        "description": "Refreshing drink made with tea and lemon",
+        "price": 3.00
+      },
+      {
+        "name": "Wine",
+        "description": "Red or white wine by the glass",
+        "price": 7.00
+      }
+    ]
+  }
