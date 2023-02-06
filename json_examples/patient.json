@@ -1,0 +1,27 @@
+{
+    "full_name": "John Smith",
+    "age": 40,
+    "gender": "Male",
+    "patient_id": "A123456789",
+    "medical_history": [
+      {
+        "date": "2022-01-01",
+        "reason": "Annual Checkup",
+        "notes": "Patient is in good health. No concerns noted."
+      },
+      {
+        "date": "2022-06-15",
+        "reason": "Sinus Infection",
+        "notes": "Prescribed antibiotics for sinus infection. Follow up in 1 week."
+      }
+    ],
+    "current_medications": [
+      "Ibuprofen",
+      "Lisinopril",
+      "Albuterol"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Bee Stings"
+    ]
+  }
