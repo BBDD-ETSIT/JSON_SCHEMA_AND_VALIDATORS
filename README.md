@@ -1,5 +1,8 @@
 # JSON_SCHEMA_JS_VALIDATOR
 
+Conjunto de ejemplo utilizados para entender JSON, JSON SCHEMA y algunos programas y opciones de validación.
+Utilizado en las asignaturas de BDFI, SIBD, y BBDD
+
 Instrucciones de instalación de cada alternativa:
 1. Este repositorio se puede descargar como un zip (con el desplegable que se abre al hacer click en el botón verde "code") y en él vendrán todos los ficheros incluidos.
 1.b Alternativamente se puede descargar usando git (en ese caso el paso 2 lo podemos saltar)
