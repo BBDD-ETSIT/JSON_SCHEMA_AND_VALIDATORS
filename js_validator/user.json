@@ -1,0 +1,28 @@
+{
+    "$schema": "./misschemas/user.schema.json",
+    "Nombre": "3434",
+    "Apellidos": "Garcia",
+    "Edad": 25,    
+    "Telefono": "1234567890",
+    "tiene_coche": true,
+    "Domicilio": {
+        "calle": "Gran vía 12",
+        "ciudad": "Madrid",
+        "CP": 28034
+    },
+    "notas": [
+        {
+            "tipo": "examen",
+            "descripcion": "examen parcial 1 bla bla",
+            "fecha": "2024-04-04",
+            "nota": 7
+        },
+        {
+            "tipo": "oral",
+            "descripcion": "oral de Julio",
+            "fecha": "2024-04-06",
+            "nota": 8
+        }
+    ]
+    
+}

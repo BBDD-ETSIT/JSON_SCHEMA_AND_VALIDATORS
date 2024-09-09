@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://upm.es/user.json",
+    "title": "un usuario",
+    "description": "dfhaljdfal kdfjasdf",
+    "type": "object",
+    "properties": {
+        "Nombre": {
+            "type": "string"
+        }
+    },
+    "required": ["notas"]
+}
