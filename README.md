@@ -13,7 +13,7 @@ Instrucciones de instalación de cada alternativa:
 
 Node - JS:
 
-0. Necesito tener node 16 o 18 instalado en la máquina.
+0. Necesito tener node 22 o 24 instalado en la máquina.
 1. Ejecutar "cd js_validator". En dicho directorio (comprobarlo con "dir") deben estar todos los ficheros descomprimidos, incluido el fichero package.json
 2. Ejecutar el programa "npm install" que instalará el software necesario para poder validar nuestros JSON Schemas
 3. Vamos a probar el programa, para ello ejecutamos el comando "node validator.js" que debería devolver un log diciendo que nuestro JSON es correcto.
